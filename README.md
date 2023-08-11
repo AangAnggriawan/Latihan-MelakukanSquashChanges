@@ -1,3 +1,3 @@
 # Latihan-MelakukanSquashChanges
 
-Update Satu
+Update Dua
